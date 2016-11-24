@@ -15,6 +15,10 @@ Contact me for any comments or improvements.
 ## COMPILE
 Nothing special about it... but remember to link against libwsock32.
 
+## TODO
+- Add UDP examples
+- Do something with select()
+
 ## LICENCE
 These source codes are under Coffee-Ware licence: feel free to use this software
 "as-is", but buy me a coffee if we ever meet each other.
