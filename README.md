@@ -1,8 +1,8 @@
 # Winsock Templates
 
 ## AUTHOR
-Dennis Siekmeier  
-contact@dsiekmeier.de  
+Dennis Siekmeier
+contact@dsiekmeier.de
 Visit me on www.dsiekmeier.de
 
 ## DESCRIPTION
@@ -16,7 +16,6 @@ Contact me for any comments or improvements.
 Nothing special about it... but remember to link against libwsock32.
 
 ## TODO
-- Add UDP examples
 - Do something with select()
 
 ## LICENCE
