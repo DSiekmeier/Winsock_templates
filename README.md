@@ -15,7 +15,12 @@ time reinventing the wheel.
 Contact me for any comments or improvements.
 
 ## COMPILE
-Nothing special about it... but remember to link against libwsock32.
+Nothing special about it... but remember to link against libwsock32. Using GCC
+this could be:
+    
+    gcc tcp-sock-server.c -o server -lwsock32
+
+You can also find a Makefile inside this directory.
 
 ## TODO
 - Do something with select()
